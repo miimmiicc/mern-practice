@@ -2,6 +2,4 @@ New Commit incoming
 
 Nice! 
 
-
-New commit
-Just for lolz
+Is this working for react branch old or new?
